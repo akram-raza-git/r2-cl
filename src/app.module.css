@@ -1,0 +1,23 @@
+.formContainer {
+  margin-bottom: 2rem;
+}
+
+.container,
+.tableSection {
+  padding: 2rem;
+}
+
+.field {
+  margin-bottom: 1rem;
+}
+
+.pagination {
+  margin-top: 1rem;
+}
+
+@media (min-width: 720px) {
+  .container {
+    width: 50%;
+    margin: 2rem auto;
+  }
+}
